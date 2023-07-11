@@ -11,8 +11,8 @@
 
 ## Test Cases:
 
-1. Test Login form with empty credentials — Verify that there will be an error if you enter an empty name and password.
+1. Test Login form with empty credentials: 1.Type any credentials 2. Clear the inputs. 3. Check the error messages: 3.1 Please enter your Spotify username or email address. 3.2 Please enter your password.
 
-2. Test Login form with incorrect credentials - Verify that there will be an error if you enter an incorrect name and password.
+2. Test Login form with incorrect credentials: 1. Type any incorrect credentials and click LOG IN button. X. 2. Check the error message: 2.1 Incorrect username or password.
 
-3. Test Login form with correct credentials — Verify that the correct username is displayed when logging into your account.
+3. Test Login form with correct credentials: 1. Type correct credentials and click LOG IN button. 2. Check that Name is correct.
